@@ -1,0 +1,44 @@
+{
+  "AccountBalance": 98656.75,
+  "AccountNumber": "TMN87567593-ZA",
+  "BrokerName": "ShareNet",
+  "CellphoneNumber": "0836469844",
+  "DateOfBirth": "1981-03-31",
+  "Email": "thulani.malatji@gmail.com",
+  "FirstName": "Thulani",
+  "Gender": "Male",
+  "IDNumber": "8103315409080",
+  "LastName": "Malatji",
+  "RequestId": "",
+  "RequestToken": "",
+  "StockExchange": "JSE",
+  "Title": "Mr",
+  "Holdings": [
+      {
+          "ISINCode": "ZAE000109815",
+          "NumberOfShares": 68452.7846,
+          "StockCode": "SBK",
+          "StockName": "Standard Bank Group Limited"
+      }, {
+          "ISINCode": "ZAE000035861",
+          "NumberOfShares": 12272.9504,
+          "StockCode": "CPI",
+          "StockName": "Capitec Bank Holdings Limited"
+      }, {
+          "ISINCode": "GB00B1XZS820",
+          "NumberOfShares": 66507.0497,
+          "StockCode": "AGL",
+          "StockName": "Anglo American Plc"
+      }, {
+          "ISINCode": "ZAE000022331",
+          "NumberOfShares": 264253.155,
+          "StockCode": "DSY",
+          "StockName": "Discovery Limited"
+      }, {
+          "ISINCode": "ZAE000015889",
+          "NumberOfShares": 17009.5669,
+          "StockCode": "NPN",
+          "StockName": "Naspers Limited"
+      }
+  ]
+}
